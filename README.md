@@ -3,7 +3,7 @@
   <head>
     <meta charset="utf-8">
 
-    <title>Shehan's Personal Site</title>
+    
   </head>
   <body>
     <table cellspacing="20">
@@ -18,15 +18,9 @@
     </table>
 
 
-     <hr>
-     <h3>I am Student</h3>
-     <ul>
-       <li>This is my personal test site</li>
-       <li>I am HTML is Learning from Udemy Site</li>
-     </ul>
+    
 
-     <h3>Work Expericence</h3>
-
+     
 <table border="1">
   <thead>
     <tr>
@@ -56,12 +50,7 @@
 </table>
 
 
-     <hr>
-
-
-     <hr>
-
-     <h3>Skills</h3>
+     
 
 
 <table>
